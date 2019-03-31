@@ -6,6 +6,7 @@ The name `996.ICU` refers to **'Work by "996", sick in ICU'**, an ironic saying 
 [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![Badge](https://img.shields.io/badge/link-996.icu-red.svg)](https://github.com/996icu/996.ICU/blob/master/externals/instruction.md)
 [![HitCount](http://hits.dwyl.io/996icu/996.ICU.svg)](http://hits.dwyl.io/996icu/996.ICU)
+[![GitQ](https://gitq.com/badge.svg)](https://gitq.com/steveluo/996.ICU)
 
 
 Repo for counting stars and contributing. Press <kbd>F</kbd> to pay your respect to honorable developers.
